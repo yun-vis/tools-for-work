@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Teaching"
+    url: /pages/teaching
+  - title: "Research"
+    url: /pages/research
+  - title: "Meeting"
+    url: /pages/meeting
+  # - title: "Sitema p"
+  #   url: /sitemap/
