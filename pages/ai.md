@@ -25,6 +25,7 @@ last_modified_at: 2026-02-17
 - Best Free Options:
     - Claude (Sonnet): Offers decent free access with usage limits.
     - ChatGPT (Free): Useful for simpler coding questions. 
+    - NotebookLM
 - Key Considerations
     - Prompting is Key: The effectiveness of any tool depends heavily on providing clear context, error messages, and specific requirements in your prompts.
     - Integrated Tools: IDEs like Cursor and extensions (e.g., Copilot) offer better context than copy-pasting into chat windows.

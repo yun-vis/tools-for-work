@@ -30,9 +30,16 @@ Andy Stapleton YouTube Channel
 
 # Moodle
 
+- Multi choice question format: [GIFT format](https://docs.moodle.org/501/en/GIFT_format)
+
 # Grading
 
 # Exercise generation
+
+# Blended Learning
+
+- [H5P Lumi Education: Create H5P and host your content on Lumi](https://lumi.education/en/lumi-h5p-cloud/)
+- [Perusall](https://www.perusall.com/)
 
 # AI
 
