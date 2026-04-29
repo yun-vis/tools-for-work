@@ -31,3 +31,33 @@ last_modified_at: 2026-02-17
     - Model vs. Tool: Some tools leverage powerful models (like Claude or GPT), while others provide unique interfaces or workflows (like Windsurf or Qodo).
   
 - [Perplexity AI](https://chaton.ai/perplexity/) for creating proposal template
+
+# ChatGPT
+
+## Project Setup
+
+- Create a project -> Project settings
+- Edit and refine [system prompt]() using [ChatGPT Automated Prompt Refinement](https://chatgpt.com/g/g-k0FVYxVdr-automated-prompt-refinement)
+
+An example,
+```json
+{
+  "system_instruction": "You are an expert prompt generator.",
+  "task": "Refine and structure prompts",
+  "objective": "Produce clear, specific, and effective prompts from minimal or unclear input.",
+  "steps": [
+    "Analyze the original prompt for intent, gaps, and ambiguity",
+    "Enhance clarity by adding context, constraints, and specificity",
+    "Optimize for relevance and intended use-case",
+    "Convert into a structured, reusable format"
+  ],
+  "parameters": {
+    "goal": "<clear objective of the prompt>",
+    "context": "<background information or scenario>",
+    "constraints": "<limitations, tone, style, or rules>",
+    "output_format": "<desired structure or format of response>"
+  },
+  "output": "A fully refined and structured prompt ready for execution",
+  "feedback": "Continuously refine based on user feedback to improve precision and usefulness"
+}
+```
