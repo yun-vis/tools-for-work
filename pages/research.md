@@ -19,9 +19,22 @@ c. [Research Rabbit](https://www.researchrabbit.ai/)
 d. [NotebookLM](https://notebooklm.google/)
 e. concept for thesis
 
-# Scientific Writing
+# Journal assessment
+
+- [ExCITATION – Journal Ranking & Impact Factor for Google Scholar™](https://chromewebstore.google.com/detail/excitation-%E2%80%93-journal-rank/aolbomhlimkdakklifkocohcgpmojdia)
 
 ## AI
+
+# Funding Agency
+
+- FWF
+- WWTF
+- FFG
+- GFF
+- EU
+
+# Training
+- [FFG Academy](https://academy.ffg.at/start)
 
 # Uncategorized
 

@@ -31,3 +31,5 @@ last_modified_at: 2026-02-17
     - Model vs. Tool: Some tools leverage powerful models (like Claude or GPT), while others provide unique interfaces or workflows (like Windsurf or Qodo).
   
 - [Perplexity AI](https://chaton.ai/perplexity/) for creating proposal template
+- [NotebookLM](https://notebooklm.google/)
+- [Claude](https://claude.ai/)
