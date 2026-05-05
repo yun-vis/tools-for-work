@@ -6,7 +6,7 @@ title: "Research"
 header:
   image: /assets/images/teaser/teaser.png
   caption: "Image credit: [**Yun**](http://yun-vis.net)"
-last_modified_at: 2026-04-20
+last_modified_at: 2026-04-29
 ---
 
 
@@ -27,11 +27,13 @@ e. concept for thesis
 
 # Funding Agency
 
-- FWF
-- WWTF
-- FFG
-- GFF
-- EU
+- [FWF](https://www.fwf.ac.at/en/)
+- [WWTF](https://www.wwtf.at/wwtf/index.php?lang=EN)
+- [FFG](https://www.ffg.at/en)
+- [GFF](https://www.gff-noe.at/)
+- [EU](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home)
+
+# Networking Events
 
 # Training
 - [FFG Academy](https://academy.ffg.at/start)

@@ -6,5 +6,7 @@ main:
     url: /pages/research
   - title: "Meeting"
     url: /pages/meeting
+  - title: "Thesis"
+    url: /pages/thesis
   # - title: "Sitema p"
   #   url: /sitemap/
