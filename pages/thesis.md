@@ -2,7 +2,7 @@
 # permalink: /404.html
 layout: single
 classes: wide
-title: "Research"
+title: "Bachelor Thesis"
 header:
   image: /assets/images/teaser/teaser.png
   caption: "Image credit: [**Yun**](http://yun-vis.net)"

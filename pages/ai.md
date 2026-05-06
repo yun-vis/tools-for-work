@@ -62,3 +62,16 @@ An example,
   "feedback": "Continuously refine based on user feedback to improve precision and usefulness"
 }
 ```
+
+# Google AI Studio
+
+- ChatGPT, Claude, [Felo](https://felo.ai/search)
+- Image creaion: ChatGPT, Bing, Recraft (vector format), Rephael (free)
+- Search: ChatGPT, Gemini, Perplecity, Felo
+- Notebook LM, ChatGPT專案, Felo主題集, Perplexity
+- Magic School, edcafe
+
+# Prompt Concept
+ 
+- What is the original question of the question? -> Get diverse analysis of the question.
+- 
