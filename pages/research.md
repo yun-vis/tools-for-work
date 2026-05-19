@@ -21,7 +21,7 @@ e. concept for thesis
 
 # Journal assessment
 
-- [ExCITATION – Journal Ranking & Impact Factor for Google Scholar™](https://chromewebstore.google.com/detail/excitation-%E2%80%93-journal-rank/aolbomhlimkdakklifkocohcgpmojdia)
+- [ExCITATION – Journal Ranking & Impact Factor for Google Scholar](https://chromewebstore.google.com/detail/excitation-%E2%80%93-journal-rank/aolbomhlimkdakklifkocohcgpmojdia)
 
 ## AI
 

@@ -8,5 +8,7 @@ main:
     url: /pages/meeting
   - title: "Thesis"
     url: /pages/thesis
+  - title: "Scientific Writing"
+    url: /pages/writing
   # - title: "Sitema p"
   #   url: /sitemap/
