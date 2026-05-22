@@ -36,6 +36,9 @@ This page documents additional Thesis Requirements from the Supervisor:
   - References relevant to the project (min. 5 most relevant scientific papers)
   - Add **1~2 sentences** per reference to describe why it is relevant to the project.
 
+- Implementation 
+  - The implementation setup should be proposed.
+
 - **IMPORTANT**: When the concept is successfully submitted, I will consider this is an agreement about workload between the student and the supervisor. 
 
 ## Structure Submission:
@@ -62,16 +65,15 @@ This page documents additional Thesis Requirements from the Supervisor:
 - Usually, I respond to student messages within a week; however, I may accidentally miss an email. Do not hesitate to send me a reminder.
 - To get my approval and signature
   - At least **two weeks** before the deadline, I should receive the concept/structure/thesis, so I have enough time to check the details.
-  - Note that for the final thesis, at least two review rounds will happen.
+  - Note that for the final thesis, at least two review rounds will happen in general.
 - In scientific writing, avoid phrasal verbs as they are often informal and can have multiple meanings, making the writing less precise and formal. Replace them with single-word verbs or more formal alternatives. e.g., help.
 - When sending documents (concept/structure/thesis) to me, please send me a **shared link** to the document (*.doc, *.docx), so I can directly add comments and monitor the evolution/progress of the document. If you plan to use tex/latex (strongly recommended if you are interested in proceeding with scientific education/work), I recommend Overleaf in this case, which has powerful review functions.
 - It is the student's duty to keep the thesis rolling, not the supervisor. The supervisor will act rather passively, so the students learn project management in practice.
+- In the meeting with the supervisor, the student should prepare the update of the project progress and drive the open points discussion.
 - Q: Can I change my method written in the concept, if I realize the tool is not practical in the later stage? 
 A: Yes. It is research, so one may change the methods due to unexpcted limitation.
 
 # Useful References:
 
 
-
 - [Collections for Scientific Writing](https://yun-vis.net/tools-for-work/pages/writing)
-  
