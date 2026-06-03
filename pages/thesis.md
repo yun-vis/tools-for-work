@@ -6,7 +6,7 @@ title: "Bachelor Thesis"
 header:
   image: /assets/images/teaser/teaser.png
   caption: "Image credit: [**Yun**](http://yun-vis.net)"
-last_modified_at: 2026-05-19
+last_modified_at: 2026-06-03
 ---
 
 This page documents additional Thesis Requirements from the Supervisor:
@@ -68,6 +68,7 @@ This page documents additional Thesis Requirements from the Supervisor:
   - Note that for the final thesis, at least two review rounds will happen in general.
 - In scientific writing, avoid phrasal verbs as they are often informal and can have multiple meanings, making the writing less precise and formal. Replace them with single-word verbs or more formal alternatives. e.g., help.
 - When sending documents (concept/structure/thesis) to me, please send me a **shared link** to the document (*.doc, *.docx), so I can directly add comments and monitor the evolution/progress of the document. If you plan to use tex/latex (strongly recommended if you are interested in proceeding with scientific education/work), I recommend Overleaf in this case, which has powerful review functions.
+- I strongly recommend to participate the [USTP Optional subject - Writing Coaching](https://cis.ustp.at/addons/STPCore/cis/lehre/ffs.php), so you get professional support in scientific writing. 
 - It is the student's duty to keep the thesis rolling, not the supervisor. The supervisor will act rather passively, so the students learn project management in practice.
 - In the meeting with the supervisor, the student should prepare the update of the project progress and drive the open points discussion.
 - Q: Can I change my method written in the concept, if I realize the tool is not practical in the later stage? 
@@ -75,5 +76,5 @@ A: Yes. It is research, so one may change the methods due to unexpcted limitatio
 
 # Useful References:
 
-
+- [USTP Optional subject - Writing Coaching](https://cis.ustp.at/addons/STPCore/cis/lehre/ffs.php),  [eCampus page](https://ecampus.ustp.at/course/view.php?id=27203)
 - [Collections for Scientific Writing](https://yun-vis.net/tools-for-work/pages/writing)
