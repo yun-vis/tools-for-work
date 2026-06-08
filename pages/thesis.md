@@ -6,10 +6,12 @@ title: "Bachelor Thesis"
 header:
   image: /assets/images/teaser/teaser.png
   caption: "Image credit: [**Yun**](http://yun-vis.net)"
-last_modified_at: 2026-06-03
+last_modified_at: 2026-06-08
 ---
 
 This page documents additional Thesis Requirements from the Supervisor:
+
+# Book a Meeting Slot with Me via [Book time with Wu Hsiang-Yun: Student meeting](https://outlook.office.com/bookwithme/user/f04d6775f59c4e5f995d9022e2fed8ed@ustp.at/meetingtype/zRkrLbU6L0q23nfQjOLaBw2?bookingcode=b2703da8-12b0-4045-9617-c13848749b71&anonymous&ismsaljsauthenabled&ep=mlink)
 
 # Concept Submission:
 
@@ -60,12 +62,25 @@ This page documents additional Thesis Requirements from the Supervisor:
   - Overview of Generative AI Tools Used:
     (If you use AI for code generation, you will need to mention it in the main text here. You will need to mention what tools you are using, and what prompts you use to generate the content. Pick the core ones and prompts for debugging could be skipped. More details you can look into: https://www.ustp.at/en/mediacenter/pdfs/guidelines-for-the-approach-to-generative-ai-applications.pdf)
 
+### Checklist before sending to the supervisor for proofreading
+
+  [] The correct thesis template is in use (You can find the template on the eCampus page).
+  [] All the texts have been checked by a proofreader (i.e., Grammarly). 
+  [] All images and tables are cross-cited (cross-reference feature) in the main text.
+  [] Caption text is styled in italics.
+  [] Declaration of Honour is properly checked and referenced in the thesis.
+  [] Attend Writing Coaching and receive feedback on the thesis from the experts.
+  [] Deadline information has been put in the email.
+
+
 # Common Guidelines and Q&A:
 
-- Usually, I respond to student messages within a week; however, I may accidentally miss an email. Do not hesitate to send me a reminder.
+- My main communication channel for the thesis supervision is **email**. Usually, I respond to student messages within a week; however, I may accidentally miss an email. Do not hesitate to send me a reminder.
 - To get my approval and signature
   - At least **two weeks** before the deadline, I should receive the concept/structure/thesis, so I have enough time to check the details.
+  - Put the deadline of submission in your email to me, so I know how to react accordingly.
   - Note that for the final thesis, at least two review rounds will happen in general.
+- I would like to mention first that to avoid miscommunication, the language I use in my comments will be simple and quite direct. Please do not take it personally.
 - In scientific writing, avoid phrasal verbs as they are often informal and can have multiple meanings, making the writing less precise and formal. Replace them with single-word verbs or more formal alternatives. e.g., help.
 - When sending documents (concept/structure/thesis) to me, please send me a **shared link** to the document (*.doc, *.docx), so I can directly add comments and monitor the evolution/progress of the document. If you plan to use tex/latex (strongly recommended if you are interested in proceeding with scientific education/work), I recommend Overleaf in this case, which has powerful review functions.
 - I strongly recommend to participate the [USTP Optional subject - Writing Coaching](https://cis.ustp.at/addons/STPCore/cis/lehre/ffs.php), so you get professional support in scientific writing. 
@@ -78,3 +93,4 @@ A: Yes. It is research, so one may change the methods due to unexpcted limitatio
 
 - [USTP Optional subject - Writing Coaching](https://cis.ustp.at/addons/STPCore/cis/lehre/ffs.php),  [eCampus page](https://ecampus.ustp.at/course/view.php?id=27203)
 - [Collections for Scientific Writing](https://yun-vis.net/tools-for-work/pages/writing)
+
