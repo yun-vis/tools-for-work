@@ -60,7 +60,8 @@ In case you want to discuss the topic/problems/questions with me, book an appoin
 - For each chapter and section, add 1~2 sentences to describe what you plan to address here. 
 - Research questions and hypotheses addressed in the concept should also be moved here. 
 - Setup table of content and corss-reference for all citations.
-
+- If you have a repository for the project (i.e., GitHub, GitLab, etc.), do not forget to put it in the thesis. 
+- If your project contain websites, make them public available and also add URLs in the thesis.
 
 ## Thesis Submission (various deadlines):
 
@@ -78,13 +79,13 @@ In case you want to discuss the topic/problems/questions with me, book an appoin
 
 ### Checklist before sending to the supervisor for proofreading
 
-- [ ] The correct thesis template is in use (You can find the template on the eCampus page).
-- [ ] All the texts have been checked by a proofreader (i.e., Grammarly, etc.). 
-- [ ] All images and tables are cross-cited (cross-reference feature) in the main text.
-- [ ] Caption text and equations are styled in italics.
-- [ ] Declaration of Honour is properly checked and referenced in the thesis.
-- [ ] Attend Writing Coaching and receive feedback on the thesis from the experts.
-- [ ] Planned deadline information has been put in the email to the supervisor.
+  - [ ] The correct thesis template is in use (You can find the template on the eCampus page).
+  - [ ] All the texts have been checked by a proofreader (i.e., Grammarly, etc.). 
+  - [ ] All images and tables are cross-cited (cross-reference feature) in the main text.
+  - [ ] Caption text and equations are styled in italics.
+  - [ ] Declaration of Honour is properly checked and referenced in the thesis.
+  - [ ] Attend Writing Coaching and receive feedback on the thesis from the experts.
+  - [ ] Planned deadline information has been put in the email to the supervisor.
 
 
 # Common Guidelines and Q&A:
