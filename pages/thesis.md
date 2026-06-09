@@ -35,18 +35,18 @@ In case you want to discuss the topic/problems/questions with me, book an appoin
     - I will consider this the agreement between us for your project. Please note that my grading will be based on this agreement.
 
 - Planning
-  - Use a table to summarize your schedule. Do not forget to add your off-work time.
+  - Use a table (see below) to summarize your schedule.
   - Propose a time schedule based on the proposed tasks (ex. how long it takes for each task, etc... Also, include the time that you are not available, if any)
 
     | Tasks | Weeks | Expected working hours |
     |-------|-------|------------------------|
-    | Literature survey | 15.09.2025 | 4 |
+    | Literature survey | 15.09.2026 | 4 |
 
   - Do not forget the time **(min. twice)** to report the current state of the project to me. This can also be done by email updates. Note that this is required and will be considered in the final grading from the university.
   
 - Literature
   - References relevant to the project (min. 5 most relevant scientific papers)
-  - Add **1~2 sentences** per reference to describe why it is relevant to the project and what you plan to do beyond them.
+  - Add **2~3 sentences** per reference to describe why it is relevant to the project and what you plan to do beyond them.
 
 - Method & Implementation 
   - The implementation setup should be proposed. E.g., what programming languages, tools, sudy setup, etc.
@@ -78,13 +78,13 @@ In case you want to discuss the topic/problems/questions with me, book an appoin
 
 ### Checklist before sending to the supervisor for proofreading
 
-  [] The correct thesis template is in use (You can find the template on the eCampus page).
-  [] All the texts have been checked by a proofreader (i.e., Grammarly, etc.). 
-  [] All images and tables are cross-cited (cross-reference feature) in the main text.
-  [] Caption text and equations are styled in italics.
-  [] Declaration of Honour is properly checked and referenced in the thesis.
-  [] Attend Writing Coaching and receive feedback on the thesis from the experts.
-  [] Planned deadline information has been put in the email to the supervisor.
+- [ ] The correct thesis template is in use (You can find the template on the eCampus page).
+- [ ] All the texts have been checked by a proofreader (i.e., Grammarly, etc.). 
+- [ ] All images and tables are cross-cited (cross-reference feature) in the main text.
+- [ ] Caption text and equations are styled in italics.
+- [ ] Declaration of Honour is properly checked and referenced in the thesis.
+- [ ] Attend Writing Coaching and receive feedback on the thesis from the experts.
+- [ ] Planned deadline information has been put in the email to the supervisor.
 
 
 # Common Guidelines and Q&A:
