@@ -17,7 +17,9 @@ In case you want to discuss the topic/problems/questions with me, book an appoin
 
 # Concept Submission (for Scientific Writing):
 
-- If you want me to check your document planned for the lecture "Scienific Writing", use the concept template provided by the bachelor thesis eCampus page. It is also recommended to use this concept template by the lecturers of "Scientific Writing". Use the template now, so you will not do double work for the thesis submission.
+- Note that I am not involved in the lecture "Scientific Writing". Since I do it voluntarily, if you want me to check your document planned for the lecture "Scientific Writing", use the concept template provided by the bachelor thesis eCampus page. It is also recommended to use this concept template by the lecturers of "Scientific Writing". Use the template now, so you will not do double work for the thesis submission.
+- It is not necessary to find a completely novel topic for a bachelor thesis, but the research questions you aim for should not be naive and obvious without any structured study steps.
+
 
 # Submissions
 
