@@ -6,7 +6,7 @@ title: "Bachelor Thesis"
 header:
   image: /assets/images/teaser/teaser.png
   caption: "Image credit: [**Yun**](http://yun-vis.net)"
-last_modified_at: 2026-06-03
+last_modified_at: 2026-07-07
 ---
 
 This page documents additional Thesis Requirements from the Supervisor:
@@ -40,6 +40,7 @@ This page documents additional Thesis Requirements from the Supervisor:
   - The implementation setup should be proposed.
 
 - **IMPORTANT**: When the concept is successfully submitted, I will consider this is an agreement about workload between the student and the supervisor. 
+- **IMPORTANT**: If you fail one attempt, you cannot submit your next attempt within **8 weeks** from the date you receive the grade (university regulation) without talking to the academic director.
 
 ## Structure Submission:
 
