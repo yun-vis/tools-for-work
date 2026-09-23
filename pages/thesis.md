@@ -17,7 +17,7 @@ In case you want to discuss the topic/problems/questions with me, book an appoin
 
 # Concept Submission (for Scientific Writing):
 
-- Note that I am not involved in the lecture "Scientific Writing". Since I do it voluntarily, if you want me to check your document planned for the lecture "Scientific Writing", use the concept template provided from the bachelor thesis eCampus page. It is also recommended to use this concept template by the lecturers of "Scientific Writing". Use the template now so you do not have to do double work for the thesis submission.
+- Note that I am not involved in the lecture "Scientific Writing". Since I do it voluntarily, if you want me to check your document planned for the lecture "Scientific Writing", use the concept template provided from the bachelor thesis eCampus page. The lecturers of "Scientific Writing" also recommend using this concept template. Use the template now so you do not have to do double work for the thesis submission.
 
 - Note that the concept you submitted to the lecture "Scientific Writing" is not equal to the concept for the "bachelor thesis" (deadline in October). The concept you will submit in October should fulfill my supervision requirements, while the concept in "Scientific Writing" could be an initial step for it. 
 
@@ -41,7 +41,7 @@ In case you want to discuss the topic/problems/questions with me, book an appoin
 
 - Planning
   - Use a table (see below) to summarize your schedule.
-  - Propose a time schedule based on the proposed tasks (ex. how long it takes for each task, etc... Also, include the time that you are not available, if any)
+  - Propose a time schedule based on the proposed tasks (ex. how long each task takes, etc... Also, include the time that you are not available, if any)
 
     | Tasks | Weeks | Expected working hours |
     |-------|-------|------------------------|
@@ -54,9 +54,9 @@ In case you want to discuss the topic/problems/questions with me, book an appoin
   - Add **2~3 sentences** per reference to describe why it is relevant to the project and what you plan to do beyond them.
 
 - Method & Implementation 
-  - The implementation setup should be proposed. E.g., what programming languages, tools, sudy setup, etc.
+  - The implementation setup should be proposed. E.g., what programming languages, tools, study setup, etc.
 
-- **IMPORTANT**: When the concept is successfully submitted, I will consider this is an agreement about workload between the student and the supervisor. 
+- **IMPORTANT**: When the concept is successfully submitted, I will consider this an agreement about workload between the student and the supervisor. 
 - **IMPORTANT**: If you fail one attempt, you cannot submit your next attempt within **8 weeks** from the date you receive the grade (university regulation) without talking to the academic director.
 
 ## Structure Submission (deadline in February):
@@ -65,9 +65,9 @@ In case you want to discuss the topic/problems/questions with me, book an appoin
 - Itemize all information that will be put in the final thesis, including all chapter names, all section names, potential images if already planned, etc.
 - For each chapter and section, add 1~2 sentences to describe what you plan to address here. 
 - Research questions and hypotheses addressed in the concept should also be moved here. 
-- Setup table of content and corss-reference for all citations.
+- Set up the table of contents and cross-reference for all citations.
 - If you have a repository for the project (i.e., GitHub, GitLab, etc.), do not forget to put it in the thesis. 
-- If your project contain websites, make them public available and also add URLs in the thesis.
+- If your project contains websites, make them publicly available and also add URLs in the thesis.
 
 ## Thesis Submission (various deadlines):
 
@@ -105,12 +105,12 @@ In case you want to discuss the topic/problems/questions with me, book an appoin
 * In scientific writing, avoid phrasal verbs as they are often informal and can have multiple meanings, making the writing less precise and formal. Replace them with single-word verbs or more formal alternatives. e.g., help.
 * When sending documents (concept/structure/thesis) to me, please send me a **shared link** to the document (*.doc, *.docx, shared Overleaf link, etc.), so I can directly add comments and monitor the evolution/progress of the document. **Do not** remove my comments once you update the content so I can track the changes in the 2nd round. If you plan to use tex/latex (strongly recommended if you are interested in proceeding with scientific education/work), I recommend Overleaf in this case, which has powerful review functions.
 * I strongly recommend participating in the [USTP Optional subject - Writing Coaching](https://cis.ustp.at/addons/STPCore/cis/lehre/ffs.php), so you get professional support in scientific writing.
-* It is the student’s duty to keep the thesis rolling, not the supervisor. The supervisor will act rather passively, so the students learn project management in practice.
+* It is the student’s duty to keep the thesis rolling, not the supervisor's. The supervisor will act rather passively, so the students learn project management in practice.
 * In the meeting with the supervisor, the student should prepare the update of the project progress and drive the open points discussion.
 * Note that I will refer to the submitted concept as a contract to grade the performance and outcome of the bachelor thesis. I will refer to the structure when grading the scientific writing section of the thesis. If you miss a submission, you will not receive my feedback for that submission. I will still grade the final thesis based on general standards.
-* External tool can be used to tested the quality of papers you found. Howevver, please be aware that this Chrome extension is not always up-to-date and can only give an estimation. [ExCITATION – Journal Ranking & Impact Factor for Google Scholar](https://chromewebstore.google.com/detail/excitation-%E2%80%93-journal-rank/aolbomhlimkdakklifkocohcgpmojdia)
+* External tools can be used to test the quality of papers you found. However, please be aware that the following Chrome extension is not always up-to-date and can only give you an estimation. [ExCITATION – Journal Ranking & Impact Factor for Google Scholar](https://chromewebstore.google.com/detail/excitation-%E2%80%93-journal-rank/aolbomhlimkdakklifkocohcgpmojdia)
 * Q: Can I change my method written in the concept, if I realize the tool is not practical in the later stage?
-A: Yes. It is research, so one may change the methods due to unexpcted limitation. However, I do not accept the changes of thesis topic once the concept is submitted.
+A: Yes. It is research, so one may change the methods due to unexpected limitations. However, I do not accept the changes to the thesis topic once the concept is submitted.
 
 
 # Useful References:
