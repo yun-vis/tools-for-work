@@ -6,7 +6,7 @@ title: "Bachelor Thesis"
 header:
   image: /assets/images/teaser/teaser.png
   caption: "Image credit: [**Yun**](http://yun-vis.net)"
-last_modified_at: 2026-07-07
+last_modified_at: 2026-09-23
 ---
 
 This page documents additional Thesis Requirements from the Supervisor:
@@ -108,6 +108,7 @@ In case you want to discuss the topic/problems/questions with me, book an appoin
 * It is the student’s duty to keep the thesis rolling, not the supervisor. The supervisor will act rather passively, so the students learn project management in practice.
 * In the meeting with the supervisor, the student should prepare the update of the project progress and drive the open points discussion.
 * Note that I will refer to the submitted concept as a contract to grade the performance and outcome of the bachelor thesis. I will refer to the structure when grading the scientific writing section of the thesis. If you miss a submission, you will not receive my feedback for that submission. I will still grade the final thesis based on general standards.
+* External tool can be used to tested the quality of papers you found. Howevver, please be aware that this Chrome extension is not always up-to-date and can only give an estimation. [ExCITATION – Journal Ranking & Impact Factor for Google Scholar](https://chromewebstore.google.com/detail/excitation-%E2%80%93-journal-rank/aolbomhlimkdakklifkocohcgpmojdia)
 * Q: Can I change my method written in the concept, if I realize the tool is not practical in the later stage?
 A: Yes. It is research, so one may change the methods due to unexpcted limitation. However, I do not accept the changes of thesis topic once the concept is submitted.
 
