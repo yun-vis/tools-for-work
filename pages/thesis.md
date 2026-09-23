@@ -71,7 +71,7 @@ In case you want to discuss the topic/problems/questions with me, book an appoin
 
 ## Thesis Submission (various deadlines):
 
-- Abstract should follow the order: Background -> Motivation -> Goal -> Method -> Result -> Evaluation -> Cpnclusion
+- Abstract should follow the order: Background -> Motivation -> Goal -> Method -> Result -> Evaluation -> Conclusion
 - Basic Chapters should include:
   - Introduction:
   - Related work:
