@@ -191,3 +191,57 @@ $ rm -rf claude-code-ref   # you only needed the folder
 - **init-firewall.sh**: Limits outbound network traffic to the destinations the script allows
 
 ### Step 4: Read the three files before changing anything
+
+### Step 5: Make small, deliberate changes
+
+- Add a .gitignore in the repo root:
+```txt
+.env
+state/*.tmp
+```
+
+### Step 6: Open the project in the container
+
+- In VS Code: File → Open Folder → german-agent.
+- VS Code notices .devcontainer/ and offers Reopen in Container. Click it, or open the Command Palette (Cmd+Shift+P on Mac, Ctrl+Shift+P elsewhere) and run Dev Containers: Reopen in Container.
+- The first build takes several minutes. Click show log in the corner notification and skim it. You'll see the Dockerfile steps run in order, and the firewall script run at the end.
+
+In VS Code: File → Open Folder → german-agent.
+VS Code notices .devcontainer/ and offers Reopen in Container. Click it, or open the Command Palette (Cmd+Shift+P on Mac, Ctrl+Shift+P elsewhere) and run Dev Containers: Reopen in Container.
+The first build takes several minutes. Click show log in the corner notification and skim it. You'll see the Dockerfile steps run in order, and the firewall script run at the end.
+
+[IMPORTANT] Potential errors occurr. If anything is changed in the container, rebuild and reopen the container via Command Palette.
+
+### Step 7: Sign in to Claude Code
+
+```bash
+$ claude
+```
+
+### Step 8: Verify the isolation
+
+Don't take the sandbox on faith. Run each test in the container terminal:
+
+```
+whoami                         # expect: node        (not root)
+cat /etc/os-release            # expect: Debian/Ubuntu, even on a Mac or Windows host
+ls ~                           # expect: container home, NOT your host files
+ls /workspace                  # expect: your repo
+
+curl -sI https://api.anthropic.com | head -1   # expect: an HTTP response (allowed)
+curl -sI --max-time 5 https://example.com      # expect: failure/timeout (blocked)
+
+echo "hallo" > /workspace/test.txt              # then check: does test.txt appear
+                                                # in your host repo? It should.
+rm /workspace/test.txt
+```
+
+### Step 9: Commit the baseline
+
+```bash
+git add .devcontainer .gitignore
+git commit -m "Add sandboxed dev container (reference config + persistent auth)"
+git push
+```
+
+- Cannot push code to GitHub in the container, because it doesn't get my public key. Check later why.
