@@ -10,5 +10,7 @@ main:
     url: /pages/thesis
   - title: "Scientific Writing"
     url: /pages/writing
+  - title: "German Assistant"
+    url: /pages/german-assistant
   # - title: "Sitemap"
   #   url: /sitemap/
